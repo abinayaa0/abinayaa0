@@ -14,7 +14,6 @@ AI &amp; Data Science student passionate about **AI engineering, machine learnin
  Building with **LLMs, RAG, multi-agent systems &amp; ML**  
  Exploring **system design, backend engineering &amp; AI research**  
  Python · PyTorch · FastAPI · PostgreSQL · Qdrant · Docker  
-I like understanding how things work under the hood and turning ideas into practical systems.
 
 ### 🛠️ Tech Stack
 
