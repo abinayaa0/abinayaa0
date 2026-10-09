@@ -4,8 +4,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff7b72&center=true&vCenter=true&width=505&height=44&lines=Learning%20by%20Building%20AI%20systems" alt="Typing headlines" />
+
 </p>
 
 ### 🚀 About Me
